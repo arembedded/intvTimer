@@ -1,3 +1,13 @@
+/* Example code for setting
+ * up an interval timer in 
+ * Linux. 
+ * 
+ * Adapted from article
+ * Original Article Source:-
+ * http://www.informit.com/articles/article.aspx?p=23618&seqNum=14
+ *
+ */
+
 #include <signal.h>
 #include <stdio.h>
 #include <string.h>
