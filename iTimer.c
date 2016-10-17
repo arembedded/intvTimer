@@ -2,9 +2,11 @@
  * up an interval timer in 
  * Linux. 
  * 
- * Adapted from article
- * Original Article Source:-
- * http://www.informit.com/articles/article.aspx?p=23618&seqNum=14
+ * Based on existing text example
+ *
+ * Original Text Source:-
+ * Advanced Linux Programming
+ * by CodeSourcery
  *
  */
 
